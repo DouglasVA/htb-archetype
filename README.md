@@ -45,10 +45,6 @@ Na barra de url do browser: 10.10.10.247:59777//storage/emulated/0/DCIM/creds.jp
 
 Conseguimos um possível login e senha.
 
-login: kristi
-
-senha: Kr1sT!5h@Rp3xPl0r3!
-
 Vamos tentar uma conexão ssh com esse login e senha.
 
 ```
